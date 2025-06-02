@@ -12,7 +12,7 @@ She is written in ASnake *(see [the website, asnake.org](asnake.org) for more in
 
 She runs a Debian VPS hosted by [GalaxyGate](https://galaxygate.net/), with 4GB of ram. It costs 10$ a month, so anything above that on the Patreon goes towards either me, or for months that go below that number (has happened before), or rarely for Kitsu related artwork.
 
-I also run Kitsunetsuki Classic locally on a dual [CPU Intel Xeon E5-2648L v3](https://www.intel.com/content/www/us/en/products/sku/81901/intel-xeon-processor-e52648l-v3-30m-cache-1-80-ghz/specifications.html) which has 48(!) threads, and 32 GB of RAM. This is quite beefy specs for a Discord bot, but this is a spare PC I have in the garage for other purposes, acting as a pseudo server sometimes. This PC runs off **SOLAR POWER!** So if you use this version of the bot, you're being green. I don't run the main bot how this machine because of reliability; sometimes I might need to restart the PC for something stupid, or the power might go out and there not be any battery left, etc... Also the connection is worse than the VPS.
+I also run Kitsunetsuki Classic locally on a dual [CPU Intel Xeon E5-2648L v3](https://www.intel.com/content/www/us/en/products/sku/81901/intel-xeon-processor-e52648l-v3-30m-cache-1-80-ghz/specifications.html) which has 48(!) threads, and 32 GB of RAM. This is quite beefy specs for a Discord bot, but this is a spare PC I have in the garage for other purposes, acting as a pseudo server sometimes. This PC runs off **SOLAR POWER!** So if you use this version of the bot, you're being green. I don't run the main bot on this machine because of reliability; sometimes I might need to restart the PC for something stupid, or the power might go out and there not be any battery left, etc... Also the connection is worse than the VPS.
 
 ## Q: What the heck is Kitsunetsuki Classic?
 
@@ -33,7 +33,7 @@ I as the developer take a stance of "tool" over "tell", meaning I do not guarant
 Only if it is digitally available in some form. It has to have all the card images online somewhere.
 If you want the highest chance of the deck being added, you can retrieve all the cards yourself.
 
-Number them from 0 fool all the way to 77 king of pentacles. If a card is missing you can skip it ie 0, 1 , 5, 6, 7
+Number them from 0 (Fool) all the way to 77 (King of Pentacles). If a card is missing you can skip it ie 0, 1 , 5, 6, 7
 Strength should be 8, Justice 11.
 The order of minor arcana should be Wands -> Cups -> Swords -> Pentacles
 Then just zip up the folder and send to me, and I'll most likely add it if I like the look of it.
@@ -45,7 +45,7 @@ If you do all this, contact me via Discord and we'll sort it out.
 ## Q: How can I support you?
 
 ~~Just queue as a support, I'll be the ADC/APC.~~ You can sub to [Kitsunetsuki's Patreon.](https://www.patreon.com/c/KitsunetsukiDiscord)
-You can also pay to [my PayPal](https://paypal.me/ahrifoxy) if you want to skip Patreon fees or do a one time payment.
+You can also send money to [my PayPal](https://paypal.me/ahrifoxy) if you want to skip Patreon fees or do a one time payment.
 If you are a creepy paranoid person, or a fool who think you will earn money through crypto, you can send me XMR:  
 `46hTTHLdyurHz9g8oVAaJ2TJXHCa1RQPXMewMope49nwiJi12zTd7YAYjhGphLceySAo4kXzTCXv898gBbiNBdX1R1LZ229`
 
