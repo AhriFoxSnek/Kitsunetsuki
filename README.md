@@ -1,12 +1,8 @@
-# Introduction
+# ✨ Introduction
 
 Kitsunetsuki is the oldest, longest running occult Discord bot. Created on May 21 2017, she has served many peoples divination needs over the years. She is created by me: Ahri Fox.
 
-# F.A.Q
-
-## Q: Is Kitsunetsuki Accurate?
-
-I as the developer take a stance of "tool" over "tell", meaning I do not guarantee the accuracy, and try not to prescribe a meaning to the results of the commands beyond what is commonly agreed upon. It is up to you to use Kitsunetsuki as a tool in ways you see fit.
+# ✨ F.A.Q
 
 ## Q: What is she written-in?
 
@@ -28,6 +24,24 @@ Regardless, Kitsunetsuki is a frozen-in-time version of the bot that only uses t
 ## Q: Is Kitsunetsuki Open Source?
 No. Maybe one day. I mean if I did, would you use ASnake? Actually that sounds tempting. This page is currently just to host the ToS required by Discord for their Discovery program.
 
+## Q: Is Kitsunetsuki Accurate?
+
+I as the developer take a stance of "tool" over "tell", meaning I do not guarantee the accuracy, and try not to prescribe a meaning to the results of the commands beyond what is commonly agreed upon. It is up to you to use Kitsunetsuki as a tool in ways you see fit.
+
+## Q: Can I add X tarot deck to the bot?
+
+Only if it is digitally available in some form. It has to have all the card images online somewhere.
+If you want the highest chance of the deck being added, you can retrieve all the cards yourself.
+
+Number them from 0 fool all the way to 77 king of pentacles. If a card is missing you can skip it ie 0, 1 , 5, 6, 7
+Strength should be 8, Justice 11.
+The order of minor arcana should be Wands -> Cups -> Swords -> Pentacles
+Then just zip up the folder and send to me, and I'll most likely add it if I like the look of it.
+
+If it is not available online, then it would be wonderful if you took photos of the deck yourself (please not with your phone unless its high quality).
+
+If you do all this, contact me via Discord and we'll sort it out.
+
 ## Q: How can I support you?
 
 ~~Just queue as a support, I'll be the ADC/APC.~~ You can sub to [Kitsunetsuki's Patreon.](https://www.patreon.com/c/KitsunetsukiDiscord)
@@ -35,15 +49,16 @@ You can also pay to [my PayPal](https://paypal.me/ahrifoxy) if you want to skip 
 If you are a creepy paranoid person, or a fool who think you will earn money through crypto, you can send me XMR:  
 `46hTTHLdyurHz9g8oVAaJ2TJXHCa1RQPXMewMope49nwiJi12zTd7YAYjhGphLceySAo4kXzTCXv898gBbiNBdX1R1LZ229`
 
-## My question isn't on here!! 😡
+## Q: My question isn't on here!? 😡
 
 Sorry about that, babe. You can ask for help on the [Official Kitsunetsuki Discord](https://discord.gg/NVFJKgG). Invite code is `NVFJKgG`
 
-# Terms of Service
+
+# ✨ Terms of Service
 
 There are none, I've never banned anyone from the bot. That said, I reserve the right to ban anyone from it. The bot may stop service at any time.
 
-# Privacy Policy
+# ✨ Privacy Policy
 
 I store server IDs and user IDs when a server or user has created a setting, such as tarot bans.
 I may see username, server, and channel in the logs when a command errors in some way, for debugging purposes. I don't really pay attention though.
