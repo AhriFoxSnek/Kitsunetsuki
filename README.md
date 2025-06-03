@@ -6,7 +6,7 @@ Kitsunetsuki is the oldest, longest running occult Discord bot. Created on May 2
 
 ## Q: How can I use her?
 
-On Discord, duh. [Heres the link to add her](https://discordapp.com/oauth2/authorize?client_id=%20315826602187554816&scope=bot&permissions=314432).
+On Discord, duh. [Heres the link to add her to a discord you own](https://discordapp.com/oauth2/authorize?client_id=%20315826602187554816&scope=bot&permissions=314432). You can also join the [support discord](https://discord.gg/NVFJKgG) and then DM her, or use her in one of the command channels.
 
 ## Q: What is she written-in?
 
