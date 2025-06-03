@@ -4,6 +4,10 @@ Kitsunetsuki is the oldest, longest running occult Discord bot. Created on May 2
 
 # ✨ F.A.Q
 
+## Q: How can I use her?
+
+On Discord, duh. [Heres the link to add her](https://discordapp.com/oauth2/authorize?client_id=%20315826602187554816&scope=bot&permissions=314432).
+
 ## Q: What is she written-in?
 
 She is written in ASnake *(see [the website, asnake.org](asnake.org) for more info)*, which is a language I created. ASnake compiles to Python and Cython, though for Kitsu I typically run her using [Pyston](https://github.com/pyston/pyston) instead of CPython. She uses the [disnake](https://docs.disnake.dev/en/stable/) library for all the Discord related stuff.
